@@ -1,5 +1,6 @@
-# THIS IS A RECIPE WEBSITE
-The odin project's project
+# A Japanese food recipe website
+Tasty Japanese food that will make your mouth water.
+The recipes belong to https://www.allrecipes.com/
 
 ## Basic HTML and CSS
-To showcase html and css studies
+Made with basic html and css! 
